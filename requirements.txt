@@ -1,0 +1,11 @@
+flask
+gunicorn
+pymongo
+bcrypt
+dnspython
+pymupdf
+transformers
+torch
+scikit-learn
+numpy
+torch
